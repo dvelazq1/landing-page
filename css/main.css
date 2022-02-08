@@ -72,11 +72,11 @@ ul {
     flex: 1;
     flex-direction: row;
     padding-bottom: 40px;
-    margin-bottom: 15px;
     flex-wrap: nowrap;
 }
 
 .middle {
+  margin-top: 45px;
     background-color: white;
     display: flex;
     flex-direction: column;
@@ -98,4 +98,21 @@ ul {
   border: 4px solid #3882F6;
   border-radius: 15%;
   margin: 5px 20px 5px 20px;
+}
+
+.quote {
+  margin-top: 45px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  background-color: #E5E7EB;
+  font-family: sans-serif;
+  font-style: italic;
+  color: #1F2937;
+  padding: 50px 0px;
+}
+
+.quote h3 {
+  font-weight: lighter;
 }
