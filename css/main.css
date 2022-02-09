@@ -151,6 +151,7 @@ ul {
 }
 
 .footer {
+  margin-bottom: 0;
   background-color: #1B1717;
   color: #EEEBDD;
   text-align: center;
