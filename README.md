@@ -3,7 +3,9 @@ This is the repository for my landing page project I am working on for the Odin 
 _______
 Citations:
 All images are from the Pixabay website and labeled "Free for commercial use
-No attribution required." Nevertheless, here are the citations for each:
+No attribution required."
+
+Nevertheless, here are the citations for each:
 
 Vijayagopal, Sharan. 2020. Onepiece Monkey D. Image. https://pixabay.com/illustrations/onepiece-monkey-d-luffy-straw-hat-5090120/.
 
