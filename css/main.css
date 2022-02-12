@@ -73,7 +73,6 @@ ul {
   list-style: none;
   display: flex;
   flex-wrap: nowrap;
-  gap: 30px;
   color: #CE1212;
   font-size: 20px;
   flex: 1;
