@@ -31,7 +31,7 @@ button {
 header {
   display: flex;
   flex-direction: row;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
 }
 
 .container {
@@ -58,7 +58,7 @@ header {
 
 .sub {
   align-self: flex-start;
-  max-width: 50%;
+  max-width: 100%;
   margin-right: 15px;
   flex-wrap: wrap;
 }
@@ -132,6 +132,7 @@ ul {
 
 .quote h3 {
   font-weight: lighter;
+  text-align: center;
 }
 
 .bottom {
