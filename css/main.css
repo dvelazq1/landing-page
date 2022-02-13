@@ -58,7 +58,7 @@ header {
 
 .sub {
   align-self: flex-start;
-  max-width: 100%;
+  max-width: 60%;
   margin-right: 15px;
   flex-wrap: wrap;
 }
