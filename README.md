@@ -1,5 +1,7 @@
 # landing-page
-This is the repository for my landing page project I am working on for the Odin Project. Below I have added citations for the images I used for this project.
+![Landing Page Project](/images/landingPage.jpg "Check Out the Project" [Here](https://oplandingpage.netlify.app/))
+
+This is the repository for my landing page project. Below I have added citations for the images I used for this project.
 _______
 Citations:
 All images are from the Pixabay website and labeled "Free for commercial use
