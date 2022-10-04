@@ -1,8 +1,8 @@
 # landing-page
 
-![Landing Page Project](/images/landingPage.jpg)
+## Check Out the Project [Here](https://oplandingpage.netlify.app/)
 
-Check Out the Project [Here](https://oplandingpage.netlify.app/)
+![Landing Page Project](/images/landingPage.jpg)
 
 This is the repository for my landing page project. Below I have added citations for the images I used for this project.
 _______
