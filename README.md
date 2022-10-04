@@ -1,5 +1,5 @@
 # landing-page
-This is the repository for my landing page project I am working on for the Odin Project. Later on, I will add citations for the images I use for this page on this README file.
+This is the repository for my landing page project I am working on for the Odin Project. Below I have added citations for the images I used for this project.
 _______
 Citations:
 All images are from the Pixabay website and labeled "Free for commercial use
