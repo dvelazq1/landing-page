@@ -1,6 +1,6 @@
-# landing-page
+# Landing Page 
 
-## Check Out the Project [Here](https://oplandingpage.netlify.app/)
+Check Out the Project [Here](https://oplandingpage.netlify.app/)
 
 ![Landing Page Project](/images/landingPage.jpg)
 
