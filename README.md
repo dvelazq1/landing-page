@@ -1,4 +1,4 @@
-# Landing Page 
+# Landing Page
 
 Check Out the Project [Here](https://oplandingpage.netlify.app/)
 
